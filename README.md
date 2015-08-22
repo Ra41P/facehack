@@ -1,5 +1,6 @@
 # facehack v2.0
 Features added: Looks prettier on your editor. Easier to modify and use.
+
 1. This script now needs: urllib, requests, datetime and random
 2. It is more generic now and can be fairly easily modified to generally comment/like posts on your wall. 
 3. Logs data locally into a csv file
