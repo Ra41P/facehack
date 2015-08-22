@@ -6,6 +6,7 @@ Features added: Looks prettier on your editor. Easier to modify and use.
 3. Logs data locally into a csv file
 
 Usage:
+
 1. scroll down to the "Configurations" section and fill in access_key with generated access_key that has sufficient permissions.
 2. Fiddle around with additional available params
 3. Run it :)
