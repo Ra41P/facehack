@@ -114,3 +114,4 @@ endTime = genUTCTime(endTime)
 posts = getAllPosts()
 #print posts
 processPosts(posts)
+log.close()
